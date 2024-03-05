@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Umesh Ladumor",
+      "age": "25",
+      "salary": "12520",
+      "id": 1
+    },
+    {
+      "name": "ahir Umesh",
+      "age": "15",
+      "salary": "154515",
+      "id": 4
+    },
+    {
+      "name": "Umesh Ladumor",
+      "age": "12",
+      "salary": "84451",
+      "id": 6
+    },
+    {
+      "name": "Umesh ",
+      "age": "23",
+      "salary": "78456",
+      "id": 7
+    }
+  ]
+}
